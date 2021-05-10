@@ -5,19 +5,19 @@
 
 #### Install script on Termux
 ```python
-$ apt update && apt upgrade
-$ apt install python2
-$ pip2 install lolcat
-$ pip2 install mechanize
-$ pip2 install requests bs4
-$ apt install git
-$ rm -rf EXTRACT
-$ git clone https://github.com/Azim-Vau/EXTRACT.git
+ apt update && apt upgrade
+ apt install python2
+ pip2 install lolcat
+ pip2 install mechanize
+ pip2 install requests bs4
+ apt install git
+ rm -rf EXTRACT
+ git clone https://github.com/Azim-Vau/EXTRACT.git
 ```
 #### Run script
 ```python
-$ cd EXTRACT
-$ python2 extract.py
+ cd EXTRACT
+ python2 extract.py
 ```
 
 #### [~] Single Command
