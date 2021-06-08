@@ -11,19 +11,19 @@
  pip2 install mechanize
  pip2 install requests bs4
  apt install git
- rm -rf EXTRACT
- git clone https://github.com/Azim-Vau/EXTRACT.git
+ rm -rf DUMP
+ git clone https://github.com/Azim-Vau/DUMP.git
 ```
 #### Run script
 ```python
- cd EXTRACT
- python2 extract.py
+ cd DUMP
+ python2 dump.py
 ```
 
 #### [~] Single Command
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pip2 install lolcat ; apt install git -y ; git clone https://github.com/Azim-vau/EXTRACT.git ; cd EXTRACT ; python2 extract.py
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pip2 install lolcat ; apt install git -y ; git clone https://github.com/Azim-vau/DUMP.git ; cd DUMP; python2 dump.py
 ```
 #### MY SOCIAL MEDIA
 
